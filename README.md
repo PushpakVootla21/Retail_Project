@@ -1,4 +1,7 @@
 # Retail Data Analysis | Data Engineering project using Azure
+
+📄 [Live case study: Retail Data Validation Pipeline with Azure Databricks](https://pushpakvootla.cloud/projects/retail-databricks-validation-pipeline)
+
 ## Introduction
 This project leverages Azure's robust data engineering ecosystem to analyze retail data, utilizing Azure Data Lake Storage Gen2 (ADLS) for scalable storage , Azure SQL Database for relational data management, Amazon S3 for data ingestion, Azure Data Factory for data integration, and Azure Databricks for data transformation and analytics. The project aims to provide actionable insights from retail data, enabling informed business decisions. By integrating these Azure services, the project ensures a seamless data pipeline, from data ingestion to visualization.
 
